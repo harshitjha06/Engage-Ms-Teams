@@ -1,8 +1,13 @@
 # Microsoft Teams - clone
 
-Microsoft Teams - clone is a video chat app that makes it easy to groups up with people you want to meet
+Microsoft Teams - clone is a video chat webapp that was created for Microsoft Engage Mentorship Program
 
-Check out the live demo: https://microsoft-teams-webapp.herokuapp.com/
+## Functionalities:
+1. Multiple users can join
+2. Users can chat while in video call
+3. Users can mute/remove video
+
+Live demo deployed on heroku: https://microsoft-teams-webapp.herokuapp.com/
 or you can also visit: https://engage-msteams.glitch.me 
 
 This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
