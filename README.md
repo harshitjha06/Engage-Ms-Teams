@@ -1,6 +1,6 @@
 # Microsoft Teams - clone
 
-Microsoft Teams - clone is a video chat webapp that was created for Microsoft Engage Mentorship Program
+Microsoft Teams - clone is a video conferencing / chatting webapp which was created for Microsoft Engage 2021
 
 ## Functionalities:
 1. Multiple users can join
